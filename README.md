@@ -32,3 +32,5 @@ cálculo del histograma, utilizando programación paralela con OpenMP.
 El proceso 0 además debe escribir el histograma obtenido en un archivo de texto de manera que se 
 pueda visualizar en Python. Finalmente escriba un script en Python, que lance el programa paralelo 
 escrito en lenguaje C, y luego visualice el histograma obtenido.
+
+- Solución en ejer4_2 y histograma.py 
